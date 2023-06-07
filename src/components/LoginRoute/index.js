@@ -61,6 +61,7 @@ class Login extends Component {
           value={passwordInput}
           onChange={this.onChangePassword}
         />
+        <p className="hint">Use: rahul@2021</p>
       </div>
     )
   }
@@ -84,6 +85,7 @@ class Login extends Component {
           value={userNameInput}
           onChange={this.onChangeUserName}
         />
+        <p className="hint">Use: rahul</p>
       </div>
     )
   }
