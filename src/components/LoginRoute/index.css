@@ -95,3 +95,8 @@
   line-height: 1.6;
   margin-bottom: 0px;
 }
+.hint {
+  font-size: 12px;
+  color: #ffffff;
+  margin: 0px;
+}
